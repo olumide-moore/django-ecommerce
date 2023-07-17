@@ -1,0 +1,2 @@
+# puddle
+My Django project
