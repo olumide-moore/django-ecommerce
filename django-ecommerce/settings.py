@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'puddle.urls'
+ROOT_URLCONF = 'django-ecommerce.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'puddle.wsgi.application'
+WSGI_APPLICATION = 'django-ecommerce.wsgi.application'
 
 
 # Database
